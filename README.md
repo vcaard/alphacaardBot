@@ -22,7 +22,7 @@
 
 ## 📦 Adicione o bot no seu servidor
 
-- > [**Clique aqui** para adicionar.](https://discord.com/oauth2/authorize?client_id=1329843971081637999)
+- > [**Clique aqui**](https://discord.com/oauth2/authorize?client_id=1329843971081637999) para adicionar.
 - Caso tenha dúvidas, entre no [servidor de suporte](https://discord.gg/ZK7849p9Sd)
 
 <br>
