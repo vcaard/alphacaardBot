@@ -47,7 +47,7 @@
         <img
             alt="License"
             title="License"
-            src="https://img.shields.io/github/license/vcaard/alphacaardBot?style=for-the-badge&logo=readme&logoColor=white&color=b5c1d7"
+            src="https://img.shields.io/badge/MIT-LICENSE?style=for-the-badge&logo=readme&logoColor=white&label=LICENSE&color=b5c1d7"
     />
     <a href="https://livepix.gg/caard/apoiador" target="_blank">
         <img
